@@ -18,8 +18,6 @@ body{
     margin: 0;
 
 }
-
-
         
 .songname {
 margin-left: 50px;
@@ -36,13 +34,6 @@ padding-top: 160px;
 .play {
   display: flex;
 }
-        
-        
-
-
-
-
-
 .songname{
 display: flex;
 flex-direction: column;
