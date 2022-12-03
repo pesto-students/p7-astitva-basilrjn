@@ -30,7 +30,7 @@ D.call(myobj)
 
 //Apply
 const objnum1 = {
-  r: 6,
+  r: 7,
   s: 4, 
   T: function() {
       console.log(this);
@@ -42,4 +42,4 @@ const objnum2 = {
   y: 11,
 }
 var Z =objnum1.T;
-Z.apply(objnum1, [6, 4]);
+Z.apply(objnum1, [7, 4]);
